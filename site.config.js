@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "wswslog",
+    name: "wsws-log",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Product Owner",
-    bio: "just do it",
+    bio: "일이 되게 하는 사람",
     email: "product.jisu@gmail.com",
     linkedin: "teamplayer-jisu",
     github: "jiisuu",
@@ -12,20 +12,20 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `wsws-log`,
+      href: "https://github.com//jiisuu/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "wsws-log",
+    description: "work study work study",
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  link: "https://wsws-log.vercel.app/",
+  since: 2023, // If leave this empty, current year will be used.
+  lang: ["en-US", "ko-KR"] // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
