@@ -10,6 +10,7 @@ const CONFIG = {
     github: "jiisuu",
     instagram: "myadorable_day",
   },
+  projects: null,
   // blog setting (required)
   blog: {
     title: "wsws-log",
