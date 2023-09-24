@@ -10,12 +10,8 @@ const CONFIG = {
     github: "jiisuu",
     instagram: "myadorable_day",
   },
-  projects: [
-    {
-      name: `wsws-log`,
-      href: "https://github.com//jiisuu/morethan-log",
-    },
-  ],
+  projects: []
+  ,
   // blog setting (required)
   blog: {
     title: "wsws-log",
